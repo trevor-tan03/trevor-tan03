@@ -1,5 +1,12 @@
-## Hi there 👋
-
+<div align="center">
+<h1>Hi there 👋</h1>
+<pre>
+    🎓 BSC @ UOA • Computer Science
+    💻 Full-stack Web development  
+        ⚙️ C# and .NET • React • TypeScript
+    🎮 Music • Games • Anime • Code
+</pre>
+</div>
 <!--
 **trevor-tan03/trevor-tan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
