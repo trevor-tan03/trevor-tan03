@@ -1,10 +1,10 @@
 <div align="center">
 <h1>Hi there 👋</h1>
 <pre>
-    🎓 BSC @ UOA • Computer Science
-    💻 Full-stack Web development  
-        ⚙️ C# and .NET • React • TypeScript
-    🎮 Music • Games • Anime • Code
+🎓 BSC @ UOA • Computer Science
+💻 Full-stack Web development  
+⚙️ C# and .NET • React • TypeScript
+🎮 Music • Games • Anime • Code
 </pre>
 </div>
 <!--
