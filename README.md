@@ -3,7 +3,7 @@
 <pre>
 🎓 BSC @ UOA • Computer Science
 💻 Full-stack Web development  
-⚙️ C# and .NET • React • TypeScript
+⚙️ C# and ASP.NET Core • React • TypeScript • Python
 🎮 Music • Games • Anime • Code
 </pre>
 </div>
